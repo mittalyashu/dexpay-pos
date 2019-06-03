@@ -36,7 +36,7 @@
     "moment": "^2.24.0",
     "prop-types": "^15.6.2",
     "qs": "^6.6.0",
-    "rc-slider": "^8.6.5",
+    "rc-slider": "^8.6.11",
     "react": "^16.7.0",
     "react-apollo": "^2.4.1",
     "react-clipboard.js": "^2.0.2",
