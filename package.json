@@ -60,7 +60,7 @@
     "yup": "^0.26.10"
   },
   "devDependencies": {
-    "bulma": "^0.7.2",
+    "bulma": "^0.7.5",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.0.0",
     "eslint-plugin-import": "^2.15.0",
