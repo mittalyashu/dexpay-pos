@@ -57,7 +57,7 @@
     "web3": "1.0.0-beta.33",
     "web3-provider-engine": "^13.6.0",
     "websocket": "^1.0.28",
-    "yup": "^0.26.10"
+    "yup": "^0.27.0"
   },
   "devDependencies": {
     "bulma": "^0.7.2",
